@@ -6,3 +6,4 @@ As minhas resoluções na cadeira de programação funcional
 - Qualquer dúvida consultem o deus JBB;
 
 # Rezem todos os dias ao deus
+![Image of Haskell](https://wiki.haskell.org/wikiupload/2/28/Haskell-Logo.png)
